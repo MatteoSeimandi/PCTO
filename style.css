@@ -1,0 +1,7 @@
+.root {
+	min-height: 900px;
+	height: 100%;
+	width: 100%;
+	background: url('./img/wallpaper.png') no-repeat;
+	background-size: cover;
+}
