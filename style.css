@@ -1,7 +1,26 @@
 .root {
-	min-height: 900px;
+	min-height: 2000px;
 	height: 100%;
 	width: 100%;
-	background: url('./img/wallpaper.png') no-repeat;
-	background-size: cover;
+	background: url('./img/wallpaper.png');
+	background-size: contain;
+}
+
+.myTitle {
+	font-family: 'Arvo', serif;;
+}
+
+.myText {
+	font-family: 'Patrick Hand SC', cursive;
+}
+
+@media screen and (max-width: 1000px) {
+	.root{
+		min-height: 2000px;
+		height: 100%;
+		width: 100%;
+		background: url('./img/wallpaper.png');
+		background-position: center;
+		background-size: cover;
+	}
 }
