@@ -1,5 +1,6 @@
 body {
 	background: #283844;
+	overflow-x: hidden;
 }
 
 .root {
