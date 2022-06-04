@@ -20,6 +20,12 @@ body {
 	font-family: 'Patrick Hand SC', cursive;
 }
 
+/* Other */
+
+.down {
+	--animate-duration: 10s;
+}
+
 /* Scrollbar */
 
 ::-webkit-scrollbar {
