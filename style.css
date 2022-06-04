@@ -3,7 +3,6 @@ body {
 }
 
 .root {
-	min-height: 2160px;
 	height: 100%;
 	width: 100%;
 	background: url('./img/wallpaper.png');
