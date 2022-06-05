@@ -26,6 +26,11 @@ body {
 	--animate-duration: 10s;
 }
 
+li {
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
 /* Scrollbar */
 
 ::-webkit-scrollbar {
